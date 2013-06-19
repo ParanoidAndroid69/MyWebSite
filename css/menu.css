@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#mainpage #header{ width:100%;; height:40px; background-color: black; border-bottom: 1px silver solid;}
+#gridpage #header{ width:100%; height:40px; background-color: white; border-bottom: 1px black solid;}
+
+#menu ul {
+    
+    list-style: none;
+	margin:0px;
+	padding:0;
+	text-align:center;
+}
+
+#menu ul li {
+    display:inline;
+    	  }
+ 	
+#mainpage #menu ul li a {
+  color: silver;
+  font: 16px "Comic Sans MS", cursive;
+  margin-left: 80px;
+  margin-right: 120px;
+  text-align: center;
+  text-decoration: none;  
+		}
+		
+#gridpage #menu ul li a {
+  color: black;
+  font: 16px "Comic Sans MS", cursive;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  text-decoration: none;  
+		}
+				
+#menu ul li  a.active {
+  color: yellow;
+}
+#menu ul li a:hover {
+  background-color: white;
+}
