@@ -4,12 +4,13 @@ function get_header() {
 	$srv_root=$_SERVER['DOCUMENT_ROOT'];
 	$srv_dirs=explode('/', $srv_root);
 	$dir_root=$srv_dirs[count($srv_dirs)-1];
-if ($dir_root!="home") {
-	$doc_root="http://localhost:8888/MyWebSite";
+if ($dir_root!="htdocs") {
+	$doc_root="www.enzomanso.com";
 }
 else
 { 
-	$doc_root="www.enzomanso.com";
+	$doc_root="http://localhost:8888/MyWebSite";
+	
 }
 
 echo <<<_END
