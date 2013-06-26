@@ -3,8 +3,8 @@
 function get_header() {
 	$srv_root=$_SERVER['DOCUMENT_ROOT'];
 	$srv_dirs=explode('/', $srv_root);
-	$dir_root=$srv_dirs[count($srv_dirs)-1];
-if ($dir_root!="htdocs") {
+	$dir_root=$srv_dirs[count($srv_dirs)-3];
+if ($dir_root="www.enzomanso.com") {
 	$doc_root="www.enzomanso.com";
 }
 else
