@@ -16,7 +16,7 @@
        
  </head>
 
-<body bgcolor="#000000" id="mainpage">
+<body bgcolor="#101010" id="mainpage">
 <?php	
 require_once("include/libraries.php");
 get_header();
@@ -36,9 +36,9 @@ get_header();
         <img src="images/main/n.jpg" width="640" height="427"  />
         <img src="images/main/o.jpg" width="640" height="427"  />
 	</div>
-<?php
+<!--<?php
 get_footer();
-?>
+?> -->
 </body>
 </html>
 END;

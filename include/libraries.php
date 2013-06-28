@@ -4,7 +4,7 @@ function get_header() {
 	$srv_root=$_SERVER['DOCUMENT_ROOT'];
 	$srv_dirs=explode('/', $srv_root);
 	$dir_root=$srv_dirs[count($srv_dirs)-3];
-if ($dir_root="www.enzomanso.com") {
+if ($dir_root=="www.enzomanso.com") {
 	$doc_root="www.enzomanso.com";
 }
 else
@@ -17,7 +17,7 @@ echo <<<_END
 
 	    <div id="menu">
         		<ul>
-                <li><a href="$doc_root/index.php" title="HOME" class=logo>home</a></li>
+                <li><a style="color:white; font-size:16px;" href="$doc_root/index.php" title="Home Page">Enzo</a></li>
                 <li><a href="$doc_root/travel/grid.php" title="My Trips"><span>travelling</span></a></li>
                 <li><a href="#">images</a></li>
                 <li><a href="#">words</a></li>

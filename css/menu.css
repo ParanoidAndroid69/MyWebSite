@@ -1,8 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
-#mainpage #menu{ width:1265px;; height:40px; background-color: black; border-bottom: 1px silver solid;}
-#gridpage #menu{ width:100%; height:40px; background-color: white; border-bottom: 1px black solid;}
+#menu{ width:100%;; height:40px; background-color: black; border-bottom: 1px silver solid;}
 
 #menu ul {
     
@@ -21,7 +20,7 @@
     	  }
 		  
 #menu li:first-child {
-	margin-left:0;
+  margin-left:0;
 	}		  
 		   	
 #mainpage #menu ul li a {
@@ -32,7 +31,7 @@
   text-decoration: none;  
 		}
 	
-		
+	
 #gridpage #menu ul li a {
   color: black;
   font: 16px "Comic Sans MS", cursive;
@@ -40,11 +39,6 @@
   text-decoration: none;  
 		}
 				
-#menu ul li  a.active {
-  color: yellow;
-}
 #menu ul li a:hover {
-  background-color: white;
+  background-color: yellow;
 }
-
-
