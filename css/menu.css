@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
-#menu{ width:100%; height:40px; background-color: pink; border-bottom: 1px silver solid;}
+#menu{ width:100%; height:40px; background-color: black; border-bottom: 1px silver solid;}
 
 #menu ul {
     
