@@ -5,7 +5,7 @@ function get_header() {
 	$srv_dirs=explode('/', $srv_root);
 	$dir_root=$srv_dirs[count($srv_dirs)-3];
 if ($dir_root=="www.enzomanso.com") {
-	$doc_root="www.enzomanso.com";
+	$doc_root="http://www.enzomanso.com";
 }
 else
 { 
