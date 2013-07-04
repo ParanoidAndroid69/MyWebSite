@@ -5,6 +5,7 @@
 <title>Enzo Trips</title>
 <link rel="stylesheet" type="text/css" href="../css/menu.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="../css/grid.css" media="screen" />
+<script type="text/javascript" src="js/currMenu.js"></script>   
 
 </head>
 <body id="gridpage">

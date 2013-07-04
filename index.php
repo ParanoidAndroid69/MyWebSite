@@ -11,9 +11,8 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="css/footer.css" media="screen" />
 	<script type="text/javascript" src="js/jquery-1.2.6.min.js"></script>
-	<script type="text/javascript" src="js/fadeslide.js"></script>
-        
-       
+	<script type="text/javascript" src="js/fadeslide.js"></script>       
+    <script type="text/javascript" src="js/currMenu.js"></script>   
  </head>
 
 <body bgcolor="#101010" id="mainpage">
@@ -41,5 +40,3 @@ get_footer();
 ?> -->
 </body>
 </html>
-END;
-?>
