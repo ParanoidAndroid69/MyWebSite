@@ -23,7 +23,7 @@
 	}		  
 		   	
 #menu ul li a {
-	
+  color: silver;
   display:block-inline;
   font: 16px "Comic Sans MS", cursive;
   text-align: center;
@@ -32,9 +32,9 @@
 	
 			
 #menu ul li a:hover {
-  background-color: yellow;
   text-decoration:underline;
 }
-.active{
-	color:green;
+a.active {
+	color:white;
+	background-color:silver;
 	}
