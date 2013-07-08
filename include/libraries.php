@@ -17,7 +17,7 @@ echo <<<_END
 
 	    <div id="menu">
         		<ul>
-                <li><a href="$doc_root/index.php" title="Home Page">Enzo</a></li>
+				<li><a href="$doc_root/index.php" title="Home Page">Enzo</a></li>
                 <li><a href="$doc_root/travel/grid.php" title="My Trips">travelling</a></li>
                 <li><a href="#">images</a></li>
                 <li><a href="#">words</a></li>
