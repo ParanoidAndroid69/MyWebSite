@@ -1,6 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <html>
 <!--
  Author: Enzo Manso
@@ -10,8 +9,8 @@
    	<link rel="stylesheet" type="text/css" href="css/menu.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="css/main.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="css/footer.css" media="screen" />
-	<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>-->
-    <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
+    <!-- <script type="text/javascript" src="js/jquery-1.10.2.js"></script> -->
 	<script type="text/javascript" src="js/fadeslide.js"></script>       
     <script type="text/javascript" src="js/currMenu.js"></script>
     </head>

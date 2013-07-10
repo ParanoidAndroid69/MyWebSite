@@ -9,7 +9,7 @@ if ($dir_root=="www.enzomanso.com") {
 }
 else
 { 
-	$doc_root="http://localhost:8888/MyWebSite";
+	$doc_root="http://localhost:8888/www.enzomanso.com";
 	
 }
 
