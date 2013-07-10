@@ -6,8 +6,8 @@
 		var mainUrl="/"; // we are into prod machine
 		}
 
-	if (window.location.pathname==mainUrl)
-	$('#menu a:first').addClass('curpage');
+	if (window.location.pathname==mainUrl) 
+		$('#menu a:first').addClass('curpage'); 
 	else 
 	   $('#menu a').each(function() {
 				if (this.href == window.location.href) {

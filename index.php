@@ -9,8 +9,8 @@
    	<link rel="stylesheet" type="text/css" href="css/menu.css" media="screen" />
 	<link rel="stylesheet" type="text/css" href="css/main.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="css/footer.css" media="screen" />
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
-    <!-- <script type="text/javascript" src="js/jquery-1.10.2.js"></script> -->
+	<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>-->
+    <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
 	<script type="text/javascript" src="js/fadeslide.js"></script>       
     <script type="text/javascript" src="js/currMenu.js"></script>
     </head>
