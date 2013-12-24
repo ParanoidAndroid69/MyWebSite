@@ -21,3 +21,23 @@
   background-color: #abe2ff;
   list-style:none;
 }
+
+#grid li:hover {
+	border-color:#39F;
+	}
+
+.caption { 
+
+	font-family: proxima-nova,sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+	color: black;
+	display:block;
+	background-color:silver;
+
+		}

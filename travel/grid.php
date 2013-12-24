@@ -19,10 +19,11 @@ get_header();
 
 <div id="gridcontainer">
     <ul id="grid">
-  		<li><img src="../images/grid/santorini.jpg" /></li>
-      	<li><img src="../images/grid/zurigo.jpg" /></li>
-       	<li><img src="../images/grid/francia.jpg" /></li>
-       	<li><img src="../images/grid/canada.jpg" /></li>
+   		<li><a href="london.php"><img src="../images/grid/london.jpg" /><p class="caption">London 2013</p></li>
+  		<li><a href="#"><img src="../images/grid/santorini.jpg" /><p class="caption">Santorini 2012</p></li>
+      	<li><a href="#"><img src="../images/grid/zurigo.jpg" /><p class="caption">Swiss 2012</p></li>
+       	<li><a href="#"><img src="../images/grid/francia.jpg" /><p class="caption">France 2011</p></li>
+       	<li><a href="#"><img src="../images/grid/canada.jpg" /><p class="caption">Canada 2011</p></li>
    	</ul>
 
 </div> 
