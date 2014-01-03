@@ -15,28 +15,23 @@
     <script type="text/javascript" src="js/currMenu.js"></script>
     </head>
 
-<body bgcolor="#101010" id="mainpage">
+<body bgcolor="#999999" id="mainpage">
 <?php	
 require_once("include/libraries.php");
-get_header();
 ?>	
-	<div id="container">
-        <img src="images/main/a.jpg" width="640" height="427" alt="Vale" class="is-showing" />
-        <img src="images/main/b.jpg" width="640" height="427"  />
-        <img src="images/main/c.jpg" width="640" height="427"  />
-        <img src="images/main/d.jpg" width="640" height="427"  />
-        <img src="images/main/e.jpg" width="640" height="427"  />
-        <img src="images/main/f.jpg" width="640" height="427"  />
-        <img src="images/main/g.jpg" width="640" height="427"  />
-        <img src="images/main/h.jpg" width="640" height="427"  />
-        <img src="images/main/i.jpg" width="640" height="427"  />
-        <img src="images/main/l.jpg" width="640" height="427"  />
-        <img src="images/main/m.jpg" width="640" height="427"  />
-        <img src="images/main/n.jpg" width="640" height="427"  />
-        <img src="images/main/o.jpg" width="640" height="427"  />
-	</div>
-<!--<?php
-get_footer();
-?> -->
+<center><table>
+<tr><td><img src="pics/main/p.jpg" width="300" height="220"/></td>
+<td><img src="pics/main/q.jpg" width="300" height="220"/></td>
+<td><img src="pics/main/a.jpg" width="300" height="220"/></td></tr>
+<tr><td><img src="pics/main/d.jpg" width="300" height="220"/></td>
+<td style="background-color:#000"><a href="travel/grid.php" title="my travels">VIAGGI</a><br /><br /><a href="images/images.php" title="my pictures">IMMAGINI</a><br /><br /><a href="travel/grid.php" title="my travels">WORDS</a></td>
+<td><img src="pics/main/l.jpg" width="300" height="220"/></td></tr>
+<tr><td><img src="pics/main/v.jpg" width="300" height="220"/></td>
+<td><img src="pics/main/g.jpg" width="300" height="220"/></td>
+<td><img src="pics/main/f.jpg" width="300" height="220"/></td></tr>
+</table></center>
+
+
+
 </body>
 </html>

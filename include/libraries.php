@@ -19,7 +19,7 @@ echo <<<_END
         		<ul>
 				<li><a href="$doc_root/index.php" title="Home Page">Enzo</a></li>
                 <li><a href="$doc_root/travel/grid.php" title="My Trips">travelling</a></li>
-                <li><a href="#">images</a></li>
+                <li><a href="$doc_root/images/images.php" title="Images">images</a></li>
                 <li><a href="#">words</a></li>
 				<li><a href="#">about</a></li>
           		</ul>
