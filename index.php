@@ -24,7 +24,7 @@ require_once("include/libraries.php");
 <td><img src="pics/main/q.jpg" width="300" height="220"/></td>
 <td><img src="pics/main/a.jpg" width="300" height="220"/></td></tr>
 <tr><td><img src="pics/main/d.jpg" width="300" height="220"/></td>
-<td style="background-color:#000"><a href="travel/grid.php" title="my travels">VIAGGI</a><br /><br /><a href="images/images.php" title="my pictures">IMMAGINI</a><br /><br /><a href="#" title="my travels">WORDS</a></td>
+<td style="background-color:#000"><a href="travel/grid.php" title="my travels">TRAVELLING</a><br /><br /><a href="images/images.php" title="my pictures">IMAGES</a><br /><br /><a href="#" title="my travels">WORDS</a></td>
 <td><img src="pics/main/l.jpg" width="300" height="220"/></td></tr>
 <tr><td><img src="pics/main/v.jpg" width="300" height="220"/></td>
 <td><img src="pics/main/g.jpg" width="300" height="220"/></td>
